@@ -101,7 +101,7 @@ sqlfluff==0.7.1
 ```json
 {
     // change this to your desired path!
-    "python.pythonPath": "./.dbtenv/bin/python",
+    "python.defaultInterpreterPath": "./.dbtenv/bin/python",
 }
 ```
 
